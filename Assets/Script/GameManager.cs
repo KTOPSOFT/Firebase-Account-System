@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+//          Yuki Ono  KTOPSOFT  present                //
+
 public class GameManager : MonoBehaviour
 {
     [SerializeField]
