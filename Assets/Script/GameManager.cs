@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+//             Code Check              //
 public class GameManager : MonoBehaviour
 {
     [SerializeField]
